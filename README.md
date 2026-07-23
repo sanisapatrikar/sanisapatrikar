@@ -30,6 +30,8 @@
 
 <br>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F6D6E1,50:D8C7E9,100:C1E1EC&height=6&width=100%25" width="100%"/>
+
 ## 🧵 The technical thread
 
 <div align="center">
