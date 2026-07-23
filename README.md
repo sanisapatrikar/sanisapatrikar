@@ -92,7 +92,7 @@ Outside the terminal, I write and do voice acting; scripts, characters, the occa
 
 <div align="center">
 
-let's talk hardware, security, or storytelling 🌷
+Let's talk hardware, security, or storytelling 🌷
 
 <a href="https://linkedin.com/in/sanisa-patrikar"><img src="https://img.shields.io/badge/LinkedIn-D8C7E9?style=for-the-badge&logo=linkedin&logoColor=4B3B4E"/></a> <a href="https://beyondthespeakingmind.wordpress.com"><img src="https://img.shields.io/badge/WordPress-F6D6E1?style=for-the-badge&logo=wordpress&logoColor=4B3B4E"/></a> <a href="https://instagram.com/beyond_the_speaking_mind"><img src="https://img.shields.io/badge/Instagram-FFCAD4?style=for-the-badge&logo=instagram&logoColor=4B3B4E"/></a> <a href="mailto:sanisapatrikar09@gmail.com"><img src="https://img.shields.io/badge/Email-C9E4DE?style=for-the-badge&logo=gmail&logoColor=4B3B4E"/></a>
 
