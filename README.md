@@ -1,12 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F6D6E1,50:D8C7E9,100:C1E1EC&height=200&section=header&text=Hey,%20I'm%20Sanisa&fontSize=42&fontColor=4B3B4E&animation=fadeIn&fontAlignY=38&desc=Embedded%20systems%20%2B%20hardware%20security%20%F0%9F%8C%B7&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F6D6E1,50:D8C7E9,100:C1E1EC&height=200&section=header&text=Hey,%20I'm%20Sanisa&fontSize=42&fontColor=4B3B4E&animation=fadeIn&fontAlignY=38&desc=Embedded%20systems%20%2B%20Hardware%20security%20%F0%9F%8C%B7&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B08CB0&center=true&vCenter=true&width=600&lines=EXTC+Engineer+%40+VESIT+%F0%9F%8C%BF;Senior+Technical+Officer%2C+Cyber+Tinkerers'+Club+%F0%9F%A6%8A;Breaking+firmware+by+day%2C+writing+by+night+%F0%9F%93%94" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B08CB0&center=true&vCenter=true&width=600&lines=EXTC+Engineer+%40+VESIT+%F0%9F%8C%BF;Senior+Technical+Officer%2C+Cyber+Tinkerers'+Club+%F0%9F%A6%8A;Growing+where+Hardware+meets+Software+%F0%9F%8C%B1;Breaking+firmware+by+day%2C+writing+by+night+%F0%9F%AA%B6;Finding+Poetry+in+Silicon+%F0%9F%AA%B7" alt="Typing SVG" />
 <br>
 
-### 🌷 *Tender of the garden: Hardware security researcher* 🔩
+### 🌺 *Tender of the garden: Hardware security researcher* 🔩
 
 </div>
 
@@ -16,13 +15,17 @@
 
 ## 🪴 About the garden
 
-I'm an Electronics & Telecommunication Engineering student at Mumbai, growing things at the intersection of **Electronics, Cybersecurity, and systems that touch the physical world**. My focus is embedded and IoT security; the layer where a chip's firmware, its silicon, and its side channels all become the attack surface.
-
-I like taking things apart to understand how they fail, then writing about it clearly enough that someone else can learn from it too. Half CTF player, half storyteller.
+<p>I'm an Electronics & Telecommunication Engineering student at Mumbai, growing things at the intersection of <strong>Electronics, Cybersecurity, and systems that touch the physical world</strong>. My focus is Embedded and IoT security; the layer where silicon, firmware, operating systems, and hardware interfaces all become a part of the attack surface.</p>
+<p>I reverse engineer firmware, recreate exploits, and investigate vulnerabilities in complex codebases to understand how low-level systems behave, why they fail, and where the boundary between hardware, software, and security begins to blur. Then I write about what I learn so others can understand it too. Half reverse engineer, half storyteller.</p>
 
 ```
-🔭 Currently:    Embedded systems & IoT security research @ CoE CNDS
-🌷 Leading:      Cyber Tinkerers' Club (Founding Technical Officer)
+🍀Current Saplings
+
+🔬 Researching:   Embedded & IoT security @ CoE CNDS
+🔧 Building:      CyberEdge-001
+📖 Reading:       Practical IoT Hacking by Fotios Chantzis et al.
+🧩 Exploring:     Dynamic firmware analysis • Fault injection • Vulnerability triage
+🌸 Cultivating:   Curiosity at the hardware–software boundary
 ```
 
 <br>
@@ -84,6 +87,8 @@ I like taking things apart to understand how they fail, then writing about it cl
 
 <br>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F6D6E1,50:D8A7CA,100:E4C1F9&height=6&width=100%25" width="100%"/>
+
 ## 📔 The other pages
 
 Outside the terminal, I write and do voice acting; scripts, characters, the occasional animation voiceover. I think the best engineers in hardware security are also the ones who can explain *why* a fault-injection attack matters to someone who's never held a chip. Clear communication is a security skill too!
@@ -92,7 +97,7 @@ Outside the terminal, I write and do voice acting; scripts, characters, the occa
 
 <div align="center">
 
-Let's talk hardware, security, or storytelling 🌷
+Let's talk 🌷
 
 <a href="https://linkedin.com/in/sanisa-patrikar"><img src="https://img.shields.io/badge/LinkedIn-D8C7E9?style=for-the-badge&logo=linkedin&logoColor=4B3B4E"/></a> <a href="https://beyondthespeakingmind.wordpress.com"><img src="https://img.shields.io/badge/WordPress-F6D6E1?style=for-the-badge&logo=wordpress&logoColor=4B3B4E"/></a> <a href="https://instagram.com/beyond_the_speaking_mind"><img src="https://img.shields.io/badge/Instagram-FFCAD4?style=for-the-badge&logo=instagram&logoColor=4B3B4E"/></a> <a href="mailto:sanisapatrikar09@gmail.com"><img src="https://img.shields.io/badge/Email-C9E4DE?style=for-the-badge&logo=gmail&logoColor=4B3B4E"/></a>
 
