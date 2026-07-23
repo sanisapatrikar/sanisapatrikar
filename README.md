@@ -1,17 +1,101 @@
-# 💫 About Me:
-👋 Hi, I'm Sanisa.<br>Engineering Student | Security Researcher<br><br>I’m an EXTC student with a passion for uncovering what happens when electronics meet ethical hacking. I build things that move, think, and most importantly, stay secure. I’m driven by a no-nonsense approach to problem solving; I make things, and I break things too lmao. From winning national hackathons to ranking in international CTFs, I thrive on exploring the edge of what's possible (and what's vulnerable).<br><br>🛡️ The Focus<br>Hardware & IoT: Secure architectures with ESP32 & Raspberry Pi.<br><br>Cross-Domain Security: Moving between hardware exploitation and software vulnerabilities.<br><br>Automation: Engineering autonomous systems for agriculture, lab safety, etc.<br><br>Creative: Voice Acting, Writing, Musical Instruments, Dance<br><br>🖋️ Beyond the Code<br>I believe the best engineers are also great storytellers. When the terminal is closed, I'm writing for my WordPress blog or Instagram account, practicing an instrument, or recording voice-overs for apps, animations, etc.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F6D6E1,50:D8C7E9,100:C1E1EC&height=200&section=header&text=Hey,%20I'm%20Sanisa&fontSize=42&fontColor=4B3B4E&animation=fadeIn&fontAlignY=38&desc=Embedded%20systems%20%2B%20hardware%20security%20%F0%9F%8C%B7&descAlignY=58&descSize=18" width="100%"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@beyond_the_speaking_mind) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanisa-patrikar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanisapatrikar09@gmail.com) 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B08CB0&center=true&vCenter=true&width=600&lines=EXTC+Engineer+%40+VESIT+%F0%9F%8C%BF;Senior+Technical+Officer%2C+Cyber+Tinkerers'+Club+%F0%9F%A6%8A;Breaking+firmware+by+day%2C+writing+by+night+%F0%9F%93%94" alt="Typing SVG" />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=flat&logo=nVIDIA&logoColor=green) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=flat&logo=ros&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=flat&logo=platformio&logoColor=%23f5822a) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=flat&logo=amd&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
+<br>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sanisapatrikar&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+### 🌷 *Tender of the garden: Hardware security researcher* 🔩
 
-### ✍️ Dev Quotes
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F6D6E1,50:D8C7E9,100:C1E1EC&height=6&width=100%25" width="100%"/>
+
+## 🪴 About the garden
+
+I'm an Electronics & Telecommunication Engineering student at Mumbai, growing things at the intersection of **Electronics, Cybersecurity, and systems that touch the physical world**. My focus is embedded and IoT security; the layer where a chip's firmware, its silicon, and its side channels all become the attack surface.
+
+I like taking things apart to understand how they fail, then writing about it clearly enough that someone else can learn from it too. Half CTF player, half storyteller.
+
+```
+🔭 Currently:    Embedded systems & IoT security research @ CoE CNDS
+🌷 Leading:      Cyber Tinkerers' Club (Founding Technical Officer)
+```
+
+<br>
+
+## 🧵 The technical thread
+
+<div align="center">
+<img src="assets/skill-garden.svg" width="100%" alt="skill specimens"/>
+</div>
+
+<br>
+
+**Hardware & embedded**
+<br>
+<img src="https://img.shields.io/badge/ESP32-D8A7CA?style=for-the-badge&logo=espressif&logoColor=4B3B4E"/> <img src="https://img.shields.io/badge/Raspberry_Pi-C9E4DE?style=for-the-badge&logo=raspberry-pi&logoColor=4B3B4E"/> <img src="https://img.shields.io/badge/Arduino-F6D6E1?style=for-the-badge&logo=arduino&logoColor=4B3B4E"/> <img src="https://img.shields.io/badge/PlatformIO-E4C1F9?style=for-the-badge&logo=platformio&logoColor=4B3B4E"/>
+
+**Languages & stack**
+<br>
+<img src="https://img.shields.io/badge/C-D8C7E9?style=for-the-badge&logo=c&logoColor=4B3B4E"/> <img src="https://img.shields.io/badge/Python-F6D6E1?style=for-the-badge&logo=python&logoColor=4B3B4E"/> <img src="https://img.shields.io/badge/Bash-C9E4DE?style=for-the-badge&logo=gnu-bash&logoColor=4B3B4E"/> <img src="https://img.shields.io/badge/OpenCV-D0F4DE?style=for-the-badge&logo=opencv&logoColor=4B3B4E"/>
+
+**Tools of the trade**
+<br>
+<img src="https://img.shields.io/badge/CachyOS-C1E1EC?style=for-the-badge&logo=linux&logoColor=4B3B4E"/> <img src="https://img.shields.io/badge/Git-F9E2AE?style=for-the-badge&logo=git&logoColor=4B3B4E"/> <img src="https://img.shields.io/badge/Wireshark-D8A7CA?style=for-the-badge&logo=wireshark&logoColor=4B3B4E"/> <img src="https://img.shields.io/badge/Ghidra-FFCAD4?style=for-the-badge"/> <img src="https://img.shields.io/badge/Obsidian-E4C1F9?style=for-the-badge&logo=obsidian&logoColor=4B3B4E"/>
+
+**The workbench** *(hardware rig)*
+<br>
+<img src="https://img.shields.io/badge/J--Link_PRO-D8A7CA?style=for-the-badge"/> <img src="https://img.shields.io/badge/JTAGulator-C9E4DE?style=for-the-badge"/> <img src="https://img.shields.io/badge/Bus_Pirate-F9E2AE?style=for-the-badge"/> <img src="https://img.shields.io/badge/AmScope-D8C7E9?style=for-the-badge"/> <img src="https://img.shields.io/badge/CH341A_Programmer-FFCAD4?style=for-the-badge"/> <img src="https://img.shields.io/badge/ChipWhisperer-D0F4DE?style=for-the-badge"/> <img src="https://img.shields.io/badge/Universal_Programmer-C1E1EC?style=for-the-badge"/>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C1E1EC,50:E4C1F9,100:F6D6E1&height=6&width=100%25" width="100%"/>
+
+## 🎀 Pressed flowers (milestones)
+
+| | |
+|---|---|
+| 🏆 | **2× National Hackathon Winner** |
+| 🚩 | **Placed internationally and nationally in CTF competitions** - with an intra-college win too!|
+| 📜 | **CompTIA Security+ certified** (2026) |
+| 🎓 | **CGPA 9.5**, EXTC, VESIT Mumbai - Class of 2027 |
+| 🦔 | **Founding Technical Officer**, Cyber Tinkerers' Club - building a hardware/security community from zero |
+
+> 🔒 **The locked drawer:** a good part of my hardware security work: internship research, active disclosures, contributions, is under confidentiality and can't be shown here. It's real, it's ongoing, and I'd genuinely love to talk through it if you reach out directly 🌸
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F6D6E1,50:D8A7CA,100:E4C1F9&height=6&width=100%25" width="100%"/>
+
+## 🧷 Projects on the shelf
+
+- **CyberEdge-001** - an ESP32-based portable security toolkit for learning cybersecurity
+- **Drone Mirage** - autonomous drone systems work, blending robotics with security-aware design
+- **KIMAYA** & **MAYA** - automation systems and architectures spanning agriculture and assistive applications
+- **Theremidi** - a fusion of Theremin with the MIDI protocol
+- **SafeLabs** - safety automation for lab environments
+- **Smart Parking System** - self explanatory (a 1-day sprint to challenge the electronics student in me hehe)
+
+*(and a few more still growing quietly in the private greenhouse 🌱)*
+
+<br>
+
+## 📔 The other pages
+
+Outside the terminal, I write and do voice acting; scripts, characters, the occasional animation voiceover. I think the best engineers in hardware security are also the ones who can explain *why* a fault-injection attack matters to someone who's never held a chip. Clear communication is a security skill too!
+
+<br>
+
+<div align="center">
+
+let's talk hardware, security, or storytelling 🌷
+
+<a href="https://linkedin.com/in/sanisa-patrikar"><img src="https://img.shields.io/badge/LinkedIn-D8C7E9?style=for-the-badge&logo=linkedin&logoColor=4B3B4E"/></a> <a href="https://beyondthespeakingmind.wordpress.com"><img src="https://img.shields.io/badge/WordPress-F6D6E1?style=for-the-badge&logo=wordpress&logoColor=4B3B4E"/></a> <a href="https://instagram.com/beyond_the_speaking_mind"><img src="https://img.shields.io/badge/Instagram-FFCAD4?style=for-the-badge&logo=instagram&logoColor=4B3B4E"/></a> <a href="mailto:sanisapatrikar09@gmail.com"><img src="https://img.shields.io/badge/Email-C9E4DE?style=for-the-badge&logo=gmail&logoColor=4B3B4E"/></a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C1E1EC,50:D8C7E9,100:F6D6E1&height=100&section=footer" width="100%"/> </div>
