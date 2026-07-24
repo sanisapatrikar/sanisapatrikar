@@ -16,7 +16,7 @@
 ## 🪴 About the garden
 
 <p>I'm an Electronics & Telecommunication Engineering student at Mumbai, growing things at the intersection of <strong>Electronics, Cybersecurity, and systems that touch the physical world</strong>. My focus is Embedded and IoT security; the layer where silicon, firmware, operating systems, and hardware interfaces all become a part of the attack surface.</p>
-<p>I reverse engineer firmware, recreate exploits, and investigate vulnerabilities in complex codebases to understand how low-level systems behave, why they fail, and where the boundary between hardware, software, and security begins to blur. Then I write about what I learn so others can understand it too. Half reverse engineer, half storyteller.</p>
+<p>I extract firmware and reverse engineer it, recreate exploits, and investigate vulnerabilities in complex codebases to understand how low-level systems behave, why they fail, and where the boundary between hardware, software, and security begins to blur. Then I write about what I learn so others can understand it too. Half reverse engineer, half storyteller.</p>
 
 ```
 🍀Current Saplings
