@@ -54,7 +54,7 @@
 
 **The workbench** *(hardware rig)*
 <br>
-<img src="https://img.shields.io/badge/J--Link_PRO-D8A7CA?style=for-the-badge"/> <img src="https://img.shields.io/badge/JTAGulator-C9E4DE?style=for-the-badge"/> <img src="https://img.shields.io/badge/Bus_Pirate-F9E2AE?style=for-the-badge"/> <img src="https://img.shields.io/badge/AmScope-D8C7E9?style=for-the-badge"/> <img src="https://img.shields.io/badge/CH341A_Programmer-FFCAD4?style=for-the-badge"/> <img src="https://img.shields.io/badge/ChipWhisperer-D0F4DE?style=for-the-badge"/> <img src="https://img.shields.io/badge/Universal_Programmer-C1E1EC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/J--Link_PRO-D8A7CA?style=for-the-badge"/> <img src="https://img.shields.io/badge/JTAGulator-C9E4DE?style=for-the-badge"/> <img src="https://img.shields.io/badge/Bus_Pirate-F9E2AE?style=for-the-badge"/> <img src="https://img.shields.io/badge/AmScope-D8C7E9?style=for-the-badge"/> <img src="https://img.shields.io/badge/CH341A_Programmer-FFCAD4?style=for-the-badge"/> <img src="https://img.shields.io/badge/ChipWhisperer-D0F4DE?style=for-the-badge"/> <img src="https://img.shields.io/badge/Universal_Programmer-C1E1EC?style=for-the-badge"/> <img src="https://img.shields.io/badge/Logic_Analyser-E4C1F9?style=for-the-badge"/>
 
 <br>
 
