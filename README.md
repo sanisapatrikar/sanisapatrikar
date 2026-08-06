@@ -78,14 +78,16 @@
 
 ## 🧷 Projects on the shelf
 
-- **CyberEdge-001** - an ESP32-based portable security toolkit for learning cybersecurity
-- **Drone Mirage** - autonomous drone systems work, blending robotics with security-aware design
-- **KIMAYA** & **MAYA** - automation systems and architectures spanning agriculture and assistive applications
-- **Theremidi** - a fusion of Theremin with the MIDI protocol
-- **SafeLabs** - safety automation for lab environments
-- **Smart Parking System** - self explanatory (a 1-day sprint to challenge the electronics student in me hehe)
+> 🌵 **[Drone Mirage](https://github.com/1Horizon002/DRONE_MIRAGE-)**
+> Autonomous drone systems work, blending robotics with security-aware design.
 
-*(and a few more still growing quietly in the private greenhouse 🌱)*
+> 🌿 **[UART Recon](https://github.com/sanisapatrikar/UART-Recon)**
+> A practical walkthrough of UART-based embedded reconnaissance, interface discovery, and trying firmware dumping.
+
+> 🪴 **[SWD Recon](https://github.com/sanisapatrikar/SWD-Recon)**
+> Reverse engineering an embedded target through SWD, from hardware setup to firmware extraction.
+
+*(and CyberEdge-001, SafeLabs still growing quietly in the private greenhouse 🌱)*
 
 <br>
 
@@ -103,6 +105,14 @@ Let's talk 🌷
 
 <a href="https://linkedin.com/in/sanisa-patrikar"><img src="https://img.shields.io/badge/LinkedIn-D8C7E9?style=for-the-badge&logo=linkedin&logoColor=4B3B4E"/></a> <a href="https://beyondthespeakingmind.wordpress.com"><img src="https://img.shields.io/badge/WordPress-F6D6E1?style=for-the-badge&logo=wordpress&logoColor=4B3B4E"/></a> <a href="https://instagram.com/beyond_the_speaking_mind"><img src="https://img.shields.io/badge/Instagram-FFCAD4?style=for-the-badge&logo=instagram&logoColor=4B3B4E"/></a> <a href="mailto:sanisapatrikar09@gmail.com"><img src="https://img.shields.io/badge/Email-C9E4DE?style=for-the-badge&logo=gmail&logoColor=4B3B4E"/></a>
 
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=sanisapatrikar&color=D8A7CA&style=for-the-badge&label=Garden+Visits)
+
+</div>
+
 <br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C1E1EC,50:D8C7E9,100:F6D6E1&height=100&section=footer" width="100%"/> </div>
+
+
