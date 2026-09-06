@@ -78,6 +78,9 @@
 
 ## 🧷 Projects on the shelf
 
+> 🌾 **[CyberEdge-001](https://github.com/sanisapatrikar/CyberEdge-001)**
+> ESP32-based embedded security training device supporting Wi-Fi reconnaissance, BLE sniffing, and potentially HID/BadUSB payload delivery.
+
 > 🌵 **[Drone Mirage](https://github.com/1Horizon002/DRONE_MIRAGE-)**
 > Autonomous drone systems work, blending robotics with security-aware design.
 
@@ -87,7 +90,7 @@
 > 🪴 **[SWD Recon](https://github.com/sanisapatrikar/SWD-Recon)**
 > Reverse engineering an embedded target through SWD, from hardware setup to firmware extraction.
 
-*(and CyberEdge-001, SafeLabs still growing quietly in the private greenhouse 🌱)*
+*(and some more still growing quietly in the private greenhouse 🌱)*
 
 <br>
 
