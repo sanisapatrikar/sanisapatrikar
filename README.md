@@ -21,7 +21,7 @@
 ```
 🍀Current Saplings
 
-🔬 Researching:   Embedded & IoT security @ CoE CNDS
+🔬 Researching:   Embedded & IoT security @ CoE CNDS Lab
 🔧 Building:      CyberEdge-001
 📖 Reading:       Practical IoT Hacking by Fotios Chantzis et al.
 🧩 Exploring:     Dynamic firmware analysis • Fault injection • Vulnerability triage
