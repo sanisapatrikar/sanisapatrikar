@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B08CB0&center=true&vCenter=true&width=600&lines=EXTC+Engineer+%40+VESIT+%F0%9F%8C%BF;Senior+Technical+Officer%2C+Cyber+Tinkerers'+Club+%F0%9F%A6%8A;Growing+where+Hardware+meets+Software+%F0%9F%8C%B1;Breaking+firmware+by+day%2C+writing+by+night+%F0%9F%AA%B6;Finding+Poetry+in+Silicon+%F0%9F%AA%B7" alt="Typing SVG" />
 <br>
 
-### 🌺 *Tender of the garden: Hardware security researcher* 🔩
+### 🌺 *Tender of the garden: Embedded Systems Engineer / Hardware Security Researcher* 🔩
 
 </div>
 
