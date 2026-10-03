@@ -46,7 +46,7 @@
 
 **Languages & stack**
 <br>
-<img src="https://img.shields.io/badge/C-D8C7E9?style=for-the-badge&logo=c&logoColor=4B3B4E"/> <img src="https://img.shields.io/badge/Python-F6D6E1?style=for-the-badge&logo=python&logoColor=4B3B4E"/> <img src="https://img.shields.io/badge/Bash-C9E4DE?style=for-the-badge&logo=gnu-bash&logoColor=4B3B4E"/> <img src="https://img.shields.io/badge/OpenCV-D0F4DE?style=for-the-badge&logo=opencv&logoColor=4B3B4E"/>
+<img src="https://img.shields.io/badge/C-D8C7E9?style=for-the-badge&logo=c&logoColor=4B3B4E"/> <img src="https://img.shields.io/badge/Python-F6D6E1?style=for-the-badge&logo=python&logoColor=4B3B4E"/> <img src="https://img.shields.io/badge/Bash-C9E4DE?style=for-the-badge&logo=gnu-bash&logoColor=4B3B4E"/> <img src="https://img.shields.io/badge/Rust-D0F4DE?style=for-the-badge&logo=rust&logoColor=4B3B4E"/>
 
 **Tools of the trade**
 <br>
