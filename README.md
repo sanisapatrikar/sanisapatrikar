@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F6D6E1,50:D8C7E9,100:C1E1EC&height=200&section=header&text=Hey,%20I'm%20Sanisa&fontSize=42&fontColor=4B3B4E&animation=fadeIn&fontAlignY=38&desc=Embedded%20%2B%20low-level%20systems%20%C2%B7%20hardware%20security%20%F0%9F%8C%B7&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F6D6E1,50:D8C7E9,100:C1E1EC&height=200&section=header&text=Hey,%20I'm%20Sanisa&fontSize=42&fontColor=4B3B4E&animation=fadeIn&fontAlignY=38&desc=%20%F0%9F%8C%B7Embedded%20%2B%20Low-level%20systems%20%C2%B7%20Hardware%20security%20%F0%9F%8C%B7&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B08CB0&center=true&vCenter=true&width=620&lines=Embedded+%2B+low-level+systems+engineer+%F0%9F%94%A9;From+copper+pads+to+root+shells+%F0%9F%8C%BF;UART+%C2%B7+SWD+%C2%B7+SPI+flash+%F0%9F%8C%B1;Breaking+firmware+by+day%2C+writing+by+night+%F0%9F%AA%B6;Finding+poetry+in+silicon+%F0%9F%AA%B7" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B08CB0&center=true&vCenter=true&width=620&lines=Embedded+%2B+Low-level+systems+engineer+%F0%9F%94%A9;From+copper+pads+to+root+shells+%F0%9F%8C%BF;UART+%C2%B7+SWD+%C2%B7+SPI+flash+%F0%9F%8C%B1;Breaking+firmware+by+day%2C+writing+by+night+%F0%9F%AA%B6;Finding+poetry+in+silicon+%F0%9F%AA%B7" alt="Typing SVG" />
 <br>
 
-### 🌺 *Tender of the garden: embedded & low-level systems engineer, with thorns on the security side* 🔩
+### 🌺 *Tender of the garden: Embedded & Low-level systems engineer, with thorns on the Security side* 🛡️
 
 </div>
 
@@ -23,7 +23,7 @@ Building teaches me how systems are meant to behave. Breaking them shows me how 
 🍀 Current saplings
 
 🔧 building      CyberEdge-001 · ESP32-S3 firmware on FreeRTOS: drivers, state machine, safety guardrail layer
-🐛 disclosing    2 vulnerabilities in coordinated disclosure (see below 🌱)
+🐞 disclosing    2 vulnerabilities in coordinated disclosure (see below 🌱)
 🌿 contributing  upstream open source · both as a hacker and as a dev
 🪶 writing       research work on iotsec.in
 🌸 cultivating   curiosity at the hardware–software boundary
@@ -33,7 +33,7 @@ Building teaches me how systems are meant to behave. Breaking them shows me how 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F6D6E1,50:D8A7CA,100:E4C1F9&height=6&width=100%25" width="100%"/>
 
-## 🐛 Bugs in my garden
+## 🐞 Bugs in my garden
 
 *Vulnerabilities I've found and reported through coordinated disclosure. The details stay underground until the vendors say they can bloom.*
 
@@ -63,7 +63,7 @@ Building teaches me how systems are meant to behave. Breaking them shows me how 
 > A two-node drone threat detection system. An airborne Raspberry Pi runs a custom YOLOv8 model to spot drones, and a ground-station Pi scores each one from benign to malicious through a threat engine.
 
 > 🌼 **Upstream: [Zed](https://github.com/zed-industries/zed)**
-> My first merged open-source PR: a documentation preprocessor fix in the Rust-based code editor. The story is in the library below.
+> A documentation preprocessor fix in the Rust-based code editor. The story is in the library below.
 
 *(and a few more growing quietly in the private greenhouse 🌱)*
 
@@ -73,7 +73,7 @@ Building teaches me how systems are meant to behave. Breaking them shows me how 
 
 ## 📚 The garden library
 
-*A library filled entirely with my works. Lab notes from the bench, published on [iotsec.in](https://iotsec.in). They're technically precise, a little poetic, and honest about what didn't work.*
+*A library filled entirely with my works. Straight from the bench, for people coming in after me to follow thru, published on [iotsec.in](https://iotsec.in). They're technically precise, a little poetic, and honest about what didn't work.*
 
 | | Pressing | What grew there |
 |---|---|---|
@@ -102,7 +102,7 @@ Building teaches me how systems are meant to behave. Breaking them shows me how 
 
 **Interfaces I speak**
 <br>
-<img src="https://img.shields.io/badge/UART-F6D6E1?style=for-the-badge"/> <img src="https://img.shields.io/badge/SWD-D8C7E9?style=for-the-badge"/> <img src="https://img.shields.io/badge/SPI_flash-F9E2AE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UART-F6D6E1?style=for-the-badge"/> <img src="https://img.shields.io/badge/SWD-D8C7E9?style=for-the-badge"/> <img src="https://img.shields.io/badge/SPI-F9E2AE?style=for-the-badge"/> <img src="https://img.shields.io/badge/I2C-C1E1EC?style=for-the-badge"/>
 
 **Languages**
 <br>
