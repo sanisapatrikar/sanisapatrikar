@@ -73,7 +73,7 @@ Building teaches me how systems are meant to behave. Breaking them shows me how 
 
 ## 📚 The garden library
 
-*Lab notes from the bench, published on [iotsec.in](https://iotsec.in). They're technically precise, a little poetic, and honest about what didn't work.*
+*A library filled entirely with my works. Lab notes from the bench, published on [iotsec.in](https://iotsec.in). They're technically precise, a little poetic, and honest about what didn't work.*
 
 | | Pressing | What grew there |
 |---|---|---|
@@ -82,7 +82,7 @@ Building teaches me how systems are meant to behave. Breaking them shows me how 
 | 🌹 | **[I Found a MITM Vulnerability in a Camera's TLS Handshake. I Was Wrong.](https://iotsec.in/t/i-found-a-mitm-vulnerability-in-a-cameras-tls-handshake-i-was-wrong-a-static-reversal-of-an-mbedtls-config-struct/106)** | A static reversal of an mbedTLS config struct, and what a disproved hypothesis teaches you |
 | 🌻 | **[Swapping My Hacker Hat for a Dev One, for a Day](https://iotsec.in/t/swapping-my-hacker-hat-for-a-dev-one-for-a-day/107)** | Security research vs. shipping code: my first merged PR in Zed |
 
-> 🪶 Outside the terminal, I write and do voice work. To me, being able to explain why a side-channel attack matters to someone who has never held a chip is a security skill too.
+> 🪶 Outside the terminal, I write and do voice acting. To me, being able to explain why a side-channel attack matters to someone who has never held a chip is a security skill too.
 
 <br>
 
