@@ -80,7 +80,7 @@ Building teaches me how systems are meant to behave. Breaking them shows me how 
 | 🌷 | **[Whispers on the Wire: From Copper Pads to a Live UART Root Shell](https://iotsec.in/t/whispers-on-the-wire-from-copper-pads-to-a-live-uart-root-shell/87)** | Pinout hunting with a JTAGulator → a live root shell over UART |
 | 🪻 | **[SWD Wasn't Talking, So I Changed the Target](https://iotsec.in/t/swd-wasnt-talking-so-i-changed-the-target-swd-reconnaissance-dap-failures-and-a-dual-bank-plot-twist/88)** | SWD reconnaissance, DAP failures, and a dual-bank plot twist |
 | 🌹 | **[I Found a MITM Vulnerability in a Camera's TLS Handshake. I Was Wrong.](https://iotsec.in/t/i-found-a-mitm-vulnerability-in-a-cameras-tls-handshake-i-was-wrong-a-static-reversal-of-an-mbedtls-config-struct/106)** | A static reversal of an mbedTLS config struct, and what a disproved hypothesis teaches you |
-| 🌻 | **[Swapping My Hacker Hat for a Dev One, for a Day](https://iotsec.in/t/swapping-my-hacker-hat-for-a-dev-one-for-a-day/107)** | Security research vs. shipping code: my first merged PR in Zed |
+| 🌻 | **[Swapping My Hacker Hat for a Dev One, for a Day](https://iotsec.in/t/swapping-my-hacker-hat-for-a-dev-one-for-a-day/107)** | Security research vs. shipping code: inspired by my work across both fields |
 
 > 🪶 Outside the terminal, I write and do voice acting. To me, being able to explain why a side-channel attack matters to someone who has never held a chip is a security skill too.
 
