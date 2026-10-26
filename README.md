@@ -35,12 +35,13 @@ Building teaches me how systems are meant to behave. Breaking them shows me how 
 
 ## 🐞 Bugs in my garden
 
-*Vulnerabilities I've found and reported through coordinated disclosure. The details stay underground until the vendors say they can bloom.*
+*Vulnerabilities I've found and reported through coordinated disclosure. Some have bloomed into public advisories; the rest stay underground until the vendors say they can.*
 
 | | Where | Status |
 |---|---|---|
-| 🌱 | **An RTOS** | Reported to the Project's security team · coordinated disclosure in progress · **goes public 25 Oct 2026** |
-| 🌱 | **A global consumer electronics brand** | Consumer IoT device vulnerability, reported through the vendor's bug bounty program · in vendor triage |
+| 🌸 | **Zephyr RTOS** | Insecure randomness in the networking stack ([CWE-338](https://cwe.mitre.org/data/definitions/338.html)) · **[CVE-2026-19742](https://github.com/zephyrproject-rtos/zephyr/security/advisories/GHSA-xfm2-gr93-8mx9)** · fix merged upstream and backported |
+| 🌱 | **A global consumer electronics brand** | Consumer IoT device vulnerability · in vendor triage |
+| 🍀 | **A microcontroller OS** | Ongoing |
 
 > 🔒 Until then, no hints and no teasers. That's how disclosure works. Some of my other hardware security work (internship research and contributions) is also under confidentiality. If you'd like to talk about it in general terms, please reach out 🌸
 
@@ -124,13 +125,13 @@ Building teaches me how systems are meant to behave. Breaking them shows me how 
 
 | | |
 |---|---|
-| 🔬 | **Embedded Security Research Intern**, CoE CNDS (VJTI): firmware extraction over UART & SWD, black-box IoT testing, side-channel experiments |
+| 🐞 | **First CVE**: [CVE-2026-19742](https://github.com/zephyrproject-rtos/zephyr/security/advisories/GHSA-xfm2-gr93-8mx9) in Zephyr RTOS, fixed upstream and backported to LTS (2026) |
+| 🔬 | **Security Research Intern**, CoE CNDS (VJTI): firmware extraction over UART & SWD, black-box IoT testing, side-channel experiments |
 | 🏆 | **2× National Hackathon Winner**: Tech-a-thon 4.0 (Drone Mirage) · Hackquinox 2.0 (SafeLabs) |
-| 🚩 | **CTFs**: placed at RedFox CTF (international) and RAIT-CTF (national) · won IEEE-CTF VESIT |
+| 🚩 | **CTFs**: won IEEE-CTF VESIT · placed at RedFox CTF (international) and RAIT-CTF (national) |
 | 📜 | **CompTIA Security+** certified (2026) |
 | 🎓 | **EXTC, VESIT Mumbai**: CGPA 9.48 · Class of 2027 |
 | 🦔 | **Founding member & Senior Technical Head**, Cyber Tinkerers' Club, building a hardware/security community from zero |
-
 <br>
 
 <div align="center">
