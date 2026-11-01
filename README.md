@@ -23,7 +23,7 @@ Building teaches me how systems are meant to behave. Breaking them shows me how 
 🍀 Current saplings
 
 🔧 building      CyberEdge-001 · ESP32-S3 firmware on FreeRTOS: drivers, state machine, safety guardrail layer
-🐞 disclosing    2 vulnerabilities in coordinated disclosure (see below 🌱)
+🐞 disclosing    vulnerabilities · some published, some in coordinated disclosure (see below 🌱)
 🌿 contributing  upstream open source · both as a hacker and as a dev
 🪶 writing       research work on iotsec.in
 🌸 cultivating   curiosity at the hardware–software boundary
@@ -39,7 +39,7 @@ Building teaches me how systems are meant to behave. Breaking them shows me how 
 
 | | Where | Status |
 |---|---|---|
-| 🌸 | **Zephyr RTOS** | Insecure randomness in the networking stack ([CWE-338](https://cwe.mitre.org/data/definitions/338.html)) · **[CVE-2026-19742](https://github.com/zephyrproject-rtos/zephyr/security/advisories/GHSA-xfm2-gr93-8mx9)** · fix merged upstream and backported |
+| 🌸 | **Zephyr RTOS** | Insecure randomness in the networking stack (CWE-338) · **[CVE-2026-19742](https://www.cve.org/CVERecord?id=CVE-2026-19742)** · [advisory](https://github.com/zephyrproject-rtos/zephyr/security/advisories/GHSA-xfm2-gr93-8mx9) · fix merged upstream and backported · [write-up](https://iotsec.in/t/random-enough-to-look-secure-how-one-api-call-in-zephyrs-networking-stack-became-cve-2026-19742/108) |
 | 🌱 | **A global consumer electronics brand** | Consumer IoT device vulnerability · in vendor triage |
 | 🍀 | **A microcontroller OS** | Ongoing |
 
@@ -74,10 +74,11 @@ Building teaches me how systems are meant to behave. Breaking them shows me how 
 
 ## 📚 The garden library
 
-*A library filled entirely with my works. Straight from the bench, for people coming in after me to follow thru, published on [iotsec.in](https://iotsec.in). They're technically precise, a little poetic, and honest about what didn't work.*
+*A library filled entirely with my works. Straight from the bench, for the people coming in after me to follow through, published on [iotsec.in](https://iotsec.in). They're technically precise, a little poetic, and honest about what didn't work.*
 
 | | Pressing | What grew there |
 |---|---|---|
+| 🪷 | **[Random Enough to Look Secure: How One API Call in Zephyr's Networking Stack Became CVE-2026-19742](https://iotsec.in/t/random-enough-to-look-secure-how-one-api-call-in-zephyrs-networking-stack-became-cve-2026-19742/108)** | Following one RNG call down into Kconfig → a predictable 128-bit IPv6 secret → coordinated disclosure and a CVE |
 | 🌷 | **[Whispers on the Wire: From Copper Pads to a Live UART Root Shell](https://iotsec.in/t/whispers-on-the-wire-from-copper-pads-to-a-live-uart-root-shell/87)** | Pinout hunting with a JTAGulator → a live root shell over UART |
 | 🪻 | **[SWD Wasn't Talking, So I Changed the Target](https://iotsec.in/t/swd-wasnt-talking-so-i-changed-the-target-swd-reconnaissance-dap-failures-and-a-dual-bank-plot-twist/88)** | SWD reconnaissance, DAP failures, and a dual-bank plot twist |
 | 🌹 | **[I Found a MITM Vulnerability in a Camera's TLS Handshake. I Was Wrong.](https://iotsec.in/t/i-found-a-mitm-vulnerability-in-a-cameras-tls-handshake-i-was-wrong-a-static-reversal-of-an-mbedtls-config-struct/106)** | A static reversal of an mbedTLS config struct, and what a disproved hypothesis teaches you |
